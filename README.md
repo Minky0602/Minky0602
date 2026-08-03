@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5B8DEF,100:7ED6A5&height=220&section=header&text=Minky0602&fontSize=48&fontColor=ffffff&desc=A%20developer%20who%20knows%20when%20to%20ask%20why.&descSize=18&descAlignY=65)
 
-## You found Minky 🌠
+## 🌠 You found Minky! 🌠
 
 🌟 I’m an aspiring data engineer, currently building strong fundamentals.  
 ❔ I want to become a engineer who knows when to ask why.  
@@ -25,9 +25,9 @@
 
 ## ✅ GitHub Readme Stats
 
-![Minky0602's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minky0602&show_icons=true&hide_border=true)
+![Stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minky0602&layout=compact&hide_border=true)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
