@@ -25,9 +25,10 @@
 
 ## ✅ GitHub Readme Stats
 
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img height="180" src="./profile/stats.svg" alt="Minky's GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Minky's Most Used Languages" />
+</p>
 
 ---
 
@@ -39,8 +40,8 @@ AI-assisted lost item matching service
 - Learning backend structure with Spring Boot
 - Exploring how AI/Vision API can support item matching
 
-### mulgil
-Learning service project based on user interviews  
+### MULGIL
+Learning service project 
 - Analyzing real user needs through interviews
 - Organizing problem definitions and service direction
 - Thinking about how learning tools can support study habits
