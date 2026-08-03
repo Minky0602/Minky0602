@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5B8DEF,100:7ED6A5&height=220&section=header&text=Minky0602&fontSize=48&fontColor=ffffff&desc=A%20developer%20who%20knows%20when%20to%20ask%20why.&descSize=18&descAlignY=65)
+<p align="center">
+  <img src="profile-banner.gif" alt="Minky0602 profile banner" width="100%" />
+</p>
 
 ## 🌠 You found Minky! 🌠
 
