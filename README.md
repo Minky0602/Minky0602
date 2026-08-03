@@ -35,13 +35,15 @@
 ## 🔭 Currently Working On
 
 ### LOSTORY
-Safe lost-and-found matching and management service  
+ [LOSTORY](https://github.com/26-summer-aisw-project)
+ Safe lost-and-found matching and management service  
 - Planning MVP scope and service flow
 - Designing QR-based intake for found and lost item reports
 - Learning backend structure with Spring Boot
 - Exploring how AI/Vision API can support safe item matching
 
 ### MULGIL
+[MULGIL](https://github.com/Mulgil)
 AI-based learning assistant app that helps students organize lecture materials, review key concepts, and build consistent study habits.
 - Lecture material and note summarization
 - Quiz-based concept checking
@@ -52,6 +54,7 @@ AI-based learning assistant app that helps students organize lecture materials, 
 ## 📌 Previous Projects
 
 ### DARWIN-RAG
+[DARWIN-RAG](https://github.com/SoftwareProject26S1)
 Research project on improving RAG answer reliability through dynamic routing  
 - Studied how question categories can affect document retrieval quality
 - Explored dynamic routing and adaptive weighting in RAG
