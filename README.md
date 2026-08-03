@@ -2,10 +2,10 @@
 
 ## 🌠 You found Minky! 🌠
 
-🌟 I’m an aspiring data engineer, currently building strong fundamentals.  
+ I’m an aspiring data engineer, currently building strong fundamentals.  
 ❔ I want to become a engineer who knows when to ask why.  
 🌌 My code runs on matcha latte, my off-days run on flute, and my best ideas often arrive post-workout.
-
+  
 ---
 
 ## 🛠 Tech Stack & Tools I'm Learning
@@ -23,7 +23,7 @@
 
 ---
 
-## ✅ GitHub Readme Stats
+## GitHub Readme Stats
 
 <p align="center">
   <img height="180" src="./profile/stats.svg" alt="Minky's GitHub Stats" />
@@ -35,35 +35,38 @@
 ## 🔭 Currently Working On
 
 ### LOSTORY
-AI-assisted lost item matching service  
+Safe lost-and-found matching and management service  
 - Planning MVP scope and service flow
+- Designing QR-based intake for found and lost item reports
 - Learning backend structure with Spring Boot
-- Exploring how AI/Vision API can support item matching
+- Exploring how AI/Vision API can support safe item matching
 
 ### MULGIL
-Learning service project 
-- Analyzing real user needs through interviews
-- Organizing problem definitions and service direction
-- Thinking about how learning tools can support study habits
+AI-based learning assistant app that helps students organize lecture materials, review key concepts, and build consistent study habits.
+- Lecture material and note summarization
+- Quiz-based concept checking
+- Personalized review reminders
 
 ---
 
 ## 📌 Previous Projects
 
-### hyomind-blog
-Personal tech blog built with Astro  
-- Practicing technical writing
-- Recording study notes and project progress
+### DARWIN-RAG
+Research project on improving RAG answer reliability through dynamic routing  
+- Studied how question categories can affect document retrieval quality
+- Explored dynamic routing and adaptive weighting in RAG
+- Organized research direction, experiment ideas, and presentation materials
 
 ---
 
 ## 🌱 Studying Now
 
 - Programming fundamentals
-- Backend development with Spring Boot
-- Data structures and algorithms
+- Backend development
+- Data Lakehouse architecture and data engineering workflows
   
 ---
 
-## ✨ ALWAYS YOU CAN
+## ✨ YOU CAN ALWAYS
+reach out to me if you’d like to connect, collaborate, discuss backend development, share ideas about service planning, or even workouts and musical instruments.
 
