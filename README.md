@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.gif" alt="Minky0602 profile banner" width="100%" />
+  <img src="./minky0602-minimal-profile-banner.gif" alt="Minky0602 profile banner" width="100%" />
 </p>
 
 ## 🌠 You found Minky! 🌠
