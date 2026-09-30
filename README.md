@@ -7,6 +7,8 @@
  I’m an aspiring data engineer, currently building strong fundamentals.  
 ❔ I want to become a engineer who knows when to ask why.  
 🌌 My code runs on matcha latte, my off-days run on flute, and my best ideas often arrive post-workout.
+
+**Current project:** [LOSTORY](https://github.com/26-summer-aisw-project) · [Backend](https://github.com/26-summer-aisw-project/Backend) · [Frontend](https://github.com/26-summer-aisw-project/Frontend)
   
 ---
 
@@ -39,6 +41,7 @@
 ### LOSTORY
  [LOSTORY](https://github.com/26-summer-aisw-project)
  Safe lost-and-found matching and management service  
+- Repositories: [Backend](https://github.com/26-summer-aisw-project/Backend) · [Frontend](https://github.com/26-summer-aisw-project/Frontend)
 - Planning MVP scope and service flow
 - Designing QR-based intake for found and lost item reports
 - Learning backend structure with Spring Boot
