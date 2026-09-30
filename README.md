@@ -8,8 +8,6 @@
 ❔ I want to become a engineer who knows when to ask why.  
 🌌 My code runs on matcha latte, my off-days run on flute, and my best ideas often arrive post-workout.
 
-**Current project:** [LOSTORY](https://github.com/26-summer-aisw-project) · [Backend](https://github.com/26-summer-aisw-project/Backend) · [Frontend](https://github.com/26-summer-aisw-project/Frontend)
-  
 ---
 
 ## 🛠 Tech Stack & Tools I'm Learning
@@ -38,15 +36,6 @@
 
 ## 🔭 Currently Working On
 
-### LOSTORY
- [LOSTORY](https://github.com/26-summer-aisw-project)
- Safe lost-and-found matching and management service  
-- Repositories: [Backend](https://github.com/26-summer-aisw-project/Backend) · [Frontend](https://github.com/26-summer-aisw-project/Frontend)
-- Planning MVP scope and service flow
-- Designing QR-based intake for found and lost item reports
-- Learning backend structure with Spring Boot
-- Exploring how AI/Vision API can support safe item matching
-
 ### MULGIL
 [MULGIL](https://github.com/Mulgil)
 AI-based learning assistant app that helps students organize lecture materials, review key concepts, and build consistent study habits.
@@ -57,6 +46,16 @@ AI-based learning assistant app that helps students organize lecture materials, 
 ---
 
 ## 📌 Previous Projects
+
+### LOSTORY
+[LOSTORY](https://github.com/26-summer-aisw-project)
+Safe lost-and-found matching and management service
+
+- Repositories: [Backend](https://github.com/26-summer-aisw-project/Backend) · [Frontend](https://github.com/26-summer-aisw-project/Frontend)
+- Planning MVP scope and service flow
+- Designing QR-based intake for found and lost item reports
+- Learning backend structure with Spring Boot
+- Exploring how AI/Vision API can support safe item matching
 
 ### DARWIN-RAG
 [DARWIN-RAG](https://github.com/SoftwareProject26S1)
