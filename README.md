@@ -44,6 +44,14 @@ Sheet-music practice app that tells musicians when to come in and when to stop, 
 - Section practice by measure or rehearsal letter, with part-by-part accompaniment
 - Score edits shared by conductors and section leaders, kept separate from personal notes
 
+### UREONGGAKSI
+[UREONGGAKSI](https://github.com/Minky0602/ureonggaksi)
+Offline Windows app that collects data from HWPX documents into Excel.
+- Batch extraction with reusable rule workflows
+- Source tracing back to the exact spot in each original document
+- Filling extracted values into existing Excel templates
+- Local AI that suggests extraction rules
+
 ---
 
 ## 📌 Previous Projects
