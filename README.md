@@ -36,16 +36,24 @@
 
 ## 🔭 Currently Working On
 
+### Capstone-TheWings : ORCI
+[ORCI](https://github.com/Capstone-TheWings)
+Sheet-music practice app that tells musicians when to come in and when to stop, and gives feedback on how they played.
+- Entrance and cutoff cues, including countdowns through long rests
+- Real-time feedback on pitch and rhythm against the score
+- Section practice by measure or rehearsal letter, with part-by-part accompaniment
+- Score edits shared by conductors and section leaders, kept separate from personal notes
+
+---
+
+## 📌 Previous Projects
+
 ### MULGIL
 [MULGIL](https://github.com/Mulgil)
 AI-based learning assistant app that helps students organize lecture materials, review key concepts, and build consistent study habits.
 - Lecture material and note summarization
 - Quiz-based concept checking
 - Personalized review reminders
-
----
-
-## 📌 Previous Projects
 
 ### LOSTORY
 [LOSTORY](https://github.com/26-summer-aisw-project)
